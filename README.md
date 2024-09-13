@@ -37,6 +37,9 @@ Run `ng e2e` to execute end-to-end tests via a platform of your choice. To use t
 ## Project Structure
 src/ │ ├── app/ │ ├── add-data/ │ │ ├── add-data.component.ts # Component for adding data with form validation │ │ ├── add-data.component.html # Template for data input form │ │ └── add-data.component.css # Styles for Add Data component │ │ │ ├── view-data/ │ │ ├── view-data.component.ts # Component for visualizing data using Chart.js │ │ ├── view-data.component.html # Template for the temperature chart │ │ └── view-data.component.css # Styles for View Data component │ │ │ ├── app.component.ts # Main app component │ └── app.module.ts # Main app module, sets up routing and components │ └── environments/ # Environment settings (dev/prod)
 
+##screenshot Of the Project
+![— Mozilla Firefox 13-09-2024 11_37_39](https://github.com/user-attachments/assets/9f5f84aa-8eac-4b3b-9acc-c9e9b71d88c0)
+
 
 ## How to Use the Application
 
